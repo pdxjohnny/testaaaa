@@ -1,0 +1,1 @@
+# My Awesome Project's CODE_OF_CONDUCT
